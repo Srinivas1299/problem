@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Webpage</title>
+  <style>
+    header {
+      background-color: #87CEEB;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Welcome to My Webpage</h1>
+  </header>
+
+  <main>
+    <h2>About Me</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam gravida augue nec augue consectetur, nec tristique odio elementum. Donec posuere tincidunt sapien et finibus. Quisque accumsan ante nec iaculis tincidunt. Nunc ac ligula eu eros maximus iaculis vitae ut nisl.</p>
+    <p>Nullam ut leo tristique, finibus eros a, luctus sem. Sed vulputate rutrum neque, nec pharetra est ultrices eu. Sed aliquam est eget felis laoreet congue. Aliquam ornare semper nulla ut bibendum. Vestibulum efficitur justo sit amet malesuada commodo.</p>
+  </main>
+</body>
+</html>
